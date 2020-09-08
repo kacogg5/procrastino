@@ -1,0 +1,10 @@
+{
+	"name": "Procrasti-No",
+	"version": "1.0",
+	"description": "Block websites that are not conducive to a working environment",
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	},
+	"manifest_version": 2
+}
